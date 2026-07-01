@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Murilo 👋
 
-<!--
-**Murilozs/MuriloZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end com experiência em React, TypeScript, Angular e Next.js, atuando na construção de aplicações web escaláveis, componentização, integração com APIs REST e melhoria de performance.
 
-Here are some ideas to get you started:
+## 🚀 Principais tecnologias
+React • TypeScript • Next.js • Angular • JavaScript • REST APIs • Jest • Playwright • Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+
+### Frontend BonifiQ
+Aplicação React + TypeScript com Vite, integração com API, testes com Vitest/RTL e comunicação via postMessage.
+
+### Pokedex
+Aplicação Vanilla JavaScript com Vite, consumo da PokéAPI, filtros, busca e paginação.
+
+### Angular Finance Dashboard
+Dashboard financeiro desenvolvido com Angular, TypeScript e Angular Material.
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/murilozaninsousa/
+Email: murilozanins@gmail.com
